@@ -8,3 +8,10 @@ foreach (var item in estados)
 {
     Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
 }
+
+estados.Remove("BA");
+
+foreach (var item in estados)
+{
+    Console.WriteLine($"Chave: {item.Key}, Valor: {item.Value}");
+}
