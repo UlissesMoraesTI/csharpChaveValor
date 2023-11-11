@@ -1,0 +1,14 @@
+C:\dio\ChaveValor\bin\Debug\net7.0\ChaveValor.exe
+C:\dio\ChaveValor\bin\Debug\net7.0\ChaveValor.deps.json
+C:\dio\ChaveValor\bin\Debug\net7.0\ChaveValor.runtimeconfig.json
+C:\dio\ChaveValor\bin\Debug\net7.0\ChaveValor.dll
+C:\dio\ChaveValor\bin\Debug\net7.0\ChaveValor.pdb
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.AssemblyInfoInputs.cache
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.AssemblyInfo.cs
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.csproj.CoreCompileInputs.cache
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.dll
+C:\dio\ChaveValor\obj\Debug\net7.0\refint\ChaveValor.dll
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.pdb
+C:\dio\ChaveValor\obj\Debug\net7.0\ChaveValor.genruntimeconfig.cache
+C:\dio\ChaveValor\obj\Debug\net7.0\ref\ChaveValor.dll
